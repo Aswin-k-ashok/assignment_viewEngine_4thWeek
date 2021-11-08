@@ -22,7 +22,7 @@ router.get('/', function(req, res, next) {
       img:"https://bit.ly/3wlYSvo",
     },
     {
-      name:'Acessorys',
+      name:'Accessory',
       disc:'glasses belts and more',
       img:"https://bit.ly/3mRNTH3",
     },
